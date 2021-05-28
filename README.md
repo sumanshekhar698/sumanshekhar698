@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love ice-cream while coding to make the code look cool 🧊 
 
+<img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1B4B28"/>
 <!--
 **sumanshekhar698/sumanshekhar698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
