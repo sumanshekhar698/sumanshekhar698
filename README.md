@@ -1,10 +1,8 @@
 ### Hello Devs, I am sumanShekhar!! 👋
 
 - 🔭 I’m currently working on Spring technologies.
-- 🌱 I’m currently learning Java and releted frameworks.
+- 🌱 I’m currently learning Java and Spring related frameworks.
 - 💬 Ask me about Java and Python related technologies.
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love ice-cream while coding to make the code look cool 🧊 
 
 
