@@ -27,7 +27,6 @@
 <br />
 
 ---
----
 :zap: GitHub Stats
 
 <img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&hide_border=true&count_private=true" />
