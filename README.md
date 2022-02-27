@@ -67,7 +67,7 @@
 
 <!-- :zap:  -->
 <!-- Stats dashboard -->
-<h2 align="center">Github Stats <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/stats.gif" width="50"></h2>
+<h2 align="center">Github Stats <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/stats.gif" width="120"></h2>
 <img align="left" alt="suman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&hide_border=true&count_private=true" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1B4B28"/> -->
 
