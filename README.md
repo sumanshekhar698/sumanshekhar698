@@ -88,10 +88,12 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698)](https://git.io/streak-stats)
 
 
+<!-- SPOTIFY -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oic64vjokwzjztg6nkacp6ngki)
+
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- Social Links -->
 <h2 align="center">Reach me out at</h2>
-
 <p align="center">
 <a href="https://twitter.com/suman_698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -137,3 +139,6 @@ Hope you enjoy your moment.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+<!-- Language and tools Icons -->
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
