@@ -89,7 +89,8 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 
 
 <!-- SPOTIFY -->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oic64vjokwzjztg6nkacp6ngki)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31oic64vjokwzjztg6nkacp6ngki)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oic64vjokwzjztg6nkacp6ngki) -->
 
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- Social Links -->
