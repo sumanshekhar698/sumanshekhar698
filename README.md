@@ -1,9 +1,13 @@
-### Hey Devs, This is Suman !! 👋 🧑‍💻
+### Hey Devs !! 👋 🧑‍💻
 #### Backend Developer
 
 <!-- BANNER -->
-<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/space_banner.jpg" />
+<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/geek.gif" />
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
+</p>
 I am Suman from India 🇮🇳 and I do backend development.
 I enjoy learning new technologies and trying strange stuffs 😈. 
 Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft.
@@ -88,7 +92,7 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698)](https://git.io/streak-stats)
 
 
-
+<!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- Social Links -->
 <h2 align="center">Reach me out at<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/connecting3.gif" width="100"></h2>
 
@@ -113,7 +117,12 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 
 
 
+<!-- 
+# My GitHub contributions as a Game of Life
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
+(Be sure to click on it for the infinite scrolling version.) -->
 
 <!-- 
 **sumanshekhar698/sumanshekhar698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
