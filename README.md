@@ -1,4 +1,5 @@
-### Hey Devs, This is Suman !! 👋
+<h1>Hey Devs, This is Suman !! 👋</h1>
+
 <!-- 
 - 🔭 I’m currently working on Spring technologies.
 - 🌱 I’m currently learning Java and Spring related frameworks.
@@ -62,10 +63,11 @@
 <!-- <img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" /> -->
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 
----
+<!-- --- -->
 
-:zap: Stats
+<!-- :zap:  -->
 <!-- Stats dashboard -->
+<h2 align="center">Github Stats <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/stats.gif" width="50"></h2>
 <img align="left" alt="suman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&hide_border=true&count_private=true" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1B4B28"/> -->
 
@@ -75,7 +77,7 @@
 
 
 <!-- Social Links -->
-<h2 align="center">Reach me out at  <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698//blob/main/assets/connecting3.gif" width="50"></h2>
+<h2 align="center">Reach me out at<img src="hhttps://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/connecting3.gif" width="50"></h2>
 <p align="center">
 <a href="https://twitter.com/suman_698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -87,7 +89,7 @@
 
 <!-- Snake Game -->
 <h2 align="center">
-  Oh No !! the snake will eat my commits <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698//blob/main/assets/snake.gif" width="50"></h2>
+  Oh No !! the snake will eat my commits <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2>
 <p align="center">
   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
