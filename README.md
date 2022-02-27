@@ -17,12 +17,12 @@
 </p>
 
 <!-- Tech Stack -->
-<h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2>
+<h2 align="center">My Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+ <!-- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<!-- <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/> -->
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -74,10 +74,8 @@
 
 
 
-
-<h2 align="center">Connect with me:  <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698//blob/main/assets/connecting3.gif" width="50"></h2>
-
-
+<!-- Social Links -->
+<h2 align="center">Reach me out at  <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698//blob/main/assets/connecting3.gif" width="50"></h2>
 <p align="center">
 <a href="https://twitter.com/suman_698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -91,7 +89,7 @@
 <h2 align="center">
   Oh No !! the snake will eat my commits <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698//blob/main/assets/snake.gif" width="50"></h2>
 <p align="center">
-  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
 <!-- ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif) -->
 
