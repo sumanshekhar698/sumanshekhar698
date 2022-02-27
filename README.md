@@ -89,10 +89,10 @@
 
 <h2 align="center">
   Oh No !! the snake will eat nmy commits <img src="hhttps://github.com/sumanshekhar698/sumanshekhar698//blob/main/assets/snake.gif" width="50"></h2>
-<!-- <p align="center">
-  <img src="https://github.com/sumanshekhar698/sumanshekhart698/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+</p>
+<!-- ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif) -->
 
 
 
