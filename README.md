@@ -77,7 +77,7 @@
 
 
 <!-- Social Links -->
-<h2 align="center">Reach me out at<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/connecting3.gif" width="50"></h2>
+<h2 align="center">Reach me out at<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/connecting3.gif" width="100"></h2>
 <p align="center">
 <a href="https://twitter.com/suman_698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
