@@ -1,5 +1,5 @@
 ### Hey Devs !! 👋 🧑‍💻
-#### Backend Developer
+<!-- #### Backend Developer -->
 
 <!-- BANNER -->
 <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/geek.gif" />
@@ -8,7 +8,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
 </p>
-I am Suman from India 🇮🇳 and I do backend development.
+I am Suman from India  and I do backend development.
 I enjoy learning new technologies and trying strange stuffs 😈. 
 Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft.
 
@@ -35,7 +35,7 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 </p>
 
 <!-- Tech Stack -->
-<h2 align="center">My Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2>
+<h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2>
 
 <p align="center">
  <!-- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> -->
@@ -69,10 +69,6 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 
 
 
-
-<br />
-<br />
-
 <!-- <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> -->
 <!-- <img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" /> -->
 <!-- <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /> -->
@@ -84,7 +80,7 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 
 <!-- :zap:  -->
 <!-- Stats dashboard -->
-<h2 align="center">Github Stats <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/stats.gif" width="120"></h2>
+<h2 align="center">Github Stats</h2>
 <img align="left" alt="suman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&hide_border=true&count_private=true" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1B4B28"/> -->
 
@@ -94,7 +90,7 @@ Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft
 
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- Social Links -->
-<h2 align="center">Reach me out at<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/connecting3.gif" width="100"></h2>
+<h2 align="center">Reach me out at</h2>
 
 <p align="center">
 <a href="https://twitter.com/suman_698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
