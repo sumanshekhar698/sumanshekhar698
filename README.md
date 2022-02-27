@@ -1,4 +1,18 @@
-<h1>Hey Devs, This is Suman !! 👋</h1>
+### Hey Devs, This is Suman !! 👋 🧑‍💻
+#### Backend Developer
+
+<!-- BANNER -->
+<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/space_banner.jpg" />
+
+I am Suman from India 🇮🇳 and I do backend development.
+I enjoy learning new technologies and trying strange stuffs 😈. 
+Some of my toys which I play with are  Spring framework, Dropwizard and MuleSoft.
+
+
+- 🔭 I’m currently working on Building E-Commerce websites 
+- 🌱 I’m currently learning Spring framework family 
+- 📫 How to reach me: https://supersuman.me/ 
+- ⚡ Fun fact: I love ice-cream while coding to make the code look cool🧊 😸 
 
 <!-- 
 - 🔭 I’m currently working on Spring technologies.
@@ -6,8 +20,7 @@
 - 💬 Ask me about Java and Python related technologies
 - 🏺 Fun fact: I love ice-cream while coding to make the code look cool🧊 😸 -->
 
-<!-- BANNER -->
-<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/space_banner.jpg" />
+
 
 <!-- Activity Stats -->
 <p align="center">
@@ -78,10 +91,13 @@
 
 <!-- Social Links -->
 <h2 align="center">Reach me out at<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/connecting3.gif" width="100"></h2>
+
 <p align="center">
 <a href="https://twitter.com/suman_698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_thenameissuman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/sumanshekhar698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 
