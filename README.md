@@ -116,7 +116,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 <table>
   <tr>
     <td>
-      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
 <!--       <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
@@ -135,7 +135,6 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 </table>
 
 <br><br>
-<a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Aarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accodes21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 
 <!-- commits eating snake 🐍 -->
 
