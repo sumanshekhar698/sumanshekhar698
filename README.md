@@ -1,10 +1,13 @@
-### Hola Devs !! 👋 🧑‍💻
+<h2 align="right">
+ Hola Devs !!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <!--## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Python+Enthusiast;Learning+Cloud;Photographer)](https://git.io/typing-svg)
 -->
 
 <!-- BANNER -->
-<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/geek.gif" />
+<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 
 <!-- Activity Stats -->
 
@@ -15,12 +18,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
 
-<p align="right">
-  <!--  <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>  -->
-  <!-- <img src="https://badges.pufler.dev/years/sumanshekhar698"/> -->
+<!-- <p align="right">
+   <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
+  <img src="https://badges.pufler.dev/years/sumanshekhar698"/>
   <img src="https://badges.pufler.dev/repos/sumanshekhar698"/>
   <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
-</p>
+</p> -->
 
 </br></br></br></br></br></br>
 
@@ -139,10 +142,6 @@ Some of my toys which I play with are Spring framework, Dropwizard.
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
     ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
-
-    <!-- <p align="center">
-      <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-    </p> -->
 
 <!--
 # My GitHub contributions as a Game of Life
