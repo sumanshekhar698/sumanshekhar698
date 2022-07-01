@@ -1,4 +1,4 @@
-<h2 align="right">
+<h2 align="left">
  Hola Devs !!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
@@ -30,14 +30,14 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Suman from India and I do backend development.
-I enjoy learning new technologies and trying strange stuffs 😈.
-Some of my toys which I play with are Spring framework, Dropwizard.
+📍I am Suman from India, and I do backend development.
+I enjoy learning new technologies and trying strange stuff 😈.
+Some of the toys which I play with are Spring framework and Dropwizard.
 
-- 🔭 I’m working on Building webapps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring Spring framework family.
+- 🔭 I’m working on Building web apps using Java tech stack.
+- 🌱 I’m currently learning Java and exploring the Spring framework family.
 - 📫 Reach me @ https://www.sumanshekhar.com/
-- ⚡ Fun fact: I love ice-cream while coding to make the code look cool🧊 😸
+- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
 <!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
@@ -63,7 +63,7 @@ Some of my toys which I play with are Spring framework, Dropwizard.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,js,html,css,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
@@ -116,7 +116,8 @@ Some of my toys which I play with are Spring framework, Dropwizard.
 <table>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true">
+      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<!--       <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
 </table>
@@ -137,11 +138,11 @@ Some of my toys which I play with are Spring framework, Dropwizard.
 
 <!-- commits eating snake 🐍 -->
 
-<i><h3 align="center">Oh No !! the snake is coming for my commits 🐍</h3></i>
+<i><h2 align="center">Oh No !! the snake is coming for my commits 🐍</h2></i>
+
+![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
-
-    ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 # My GitHub contributions as a Game of Life
