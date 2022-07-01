@@ -25,7 +25,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
 </p> -->
 
-</br></br></br></br></br></br>
+</br></br></br></br>
 
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
@@ -138,7 +138,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <!-- commits eating snake 🐍 -->
 
-<i><h2 align="center">Oh No !! the snake is coming for my commits 🐍</h2></i>
+<h2 align="center">Oh No !! the snake is coming for my commits 🐍</h2>
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
