@@ -135,6 +135,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 </table>
 
 <br><br>
+<a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Aarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accodes21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 
 <!-- commits eating snake 🐍 -->
 
