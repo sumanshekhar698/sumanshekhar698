@@ -31,7 +31,7 @@
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 📍I am Suman from India, and I do backend development.
-I enjoy learning new technologies and trying strange stuff 😈.
+I enjoy learning new technologies and exploring tech.
 Some of the toys which I play with are Spring framework and Dropwizard.
 
 - 🔭 I’m working on Building web apps using Java tech stack.
