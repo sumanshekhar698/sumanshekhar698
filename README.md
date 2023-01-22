@@ -138,7 +138,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <!-- commits eating snake 🐍 -->
 
-<h2 align="center">Oh No !! the snake is coming for my commits 🐍</h2>
+<h2 align="center">Save my commit from 🐍nakey 🥺</h2>
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
