@@ -146,7 +146,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 
 
-<a style="float:right; margin-right:20px" href="https://www.buymeacoffee.com/sumanshekhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a style="float:right !important; margin-right:20px !important" href="https://www.buymeacoffee.com/sumanshekhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--
 # My GitHub contributions as a Game of Life
