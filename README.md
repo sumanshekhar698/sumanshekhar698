@@ -132,23 +132,23 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&theme=merko&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&theme=synthwave&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698&theme=merko&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698&theme=merko&hide_border=true&show_icons=true" />    
    </td>
  </tr>
 </table>
 
 <br><br>
 
-<!-- commits eating snake 🐍 -->
+<!-- commits eating snake 🐍
 
 <h2 align="center">Save my commits from 🐍nakey 🥺</h2>
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
-<!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
+<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
 
 
