@@ -1,5 +1,5 @@
 <h2 align="left">
- Hola Devs !!
+ Hola Devs!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -63,7 +63,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,nodejs,graphql,bootstrap,py,docker,netlify,git,stackoverflow,nginx,jenkins&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
