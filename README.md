@@ -30,13 +30,13 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Suman from India, and I do backend development.
-I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
+📍My name is Lyubov Andrianova, I am from Russia. My work is related to the development of server applications.
+I really enjoy learning new technologies. Among the tools that
+I use in my work, you can highlight the Spring Framework and Dropwizard.
 
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
+- 📫 Reach me @ andrianova.lyubov12@mail.ru/
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
